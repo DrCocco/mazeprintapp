@@ -94,6 +94,6 @@ family game, kids maze, maze book
 
 ## Contact Email (for Play Console)
 ```
-mazeprint.app@gmail.com
+coccolab.research@gmail.com
 ```
 *(Replace with your real contact email)*
